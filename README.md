@@ -1,7 +1,7 @@
 # mission01
 
 Hello, what's good? This is my first flutter projects from ny Lecturer.
-I've learned how to do... Hope you enjoy it.
+Hope you enjoy it :)
 
 ![AppImage](https://github.com/nickysantano/mission01/blob/master/dummy/flutter01_github.jpg)
 
